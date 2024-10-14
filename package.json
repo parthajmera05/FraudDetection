@@ -1,0 +1,14 @@
+{
+  "name": "frauddetection",
+  "version": "1.0.0",
+  "description": "fraud_detection_ml_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.13"
+  }
+}
