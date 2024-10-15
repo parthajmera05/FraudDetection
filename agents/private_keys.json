@@ -1,0 +1,10 @@
+{
+    "fraud_detection_agent": {
+        "identity_key": "0c003722f33159d48e11ebd7e4ab8874cf5c4bf0aa2045f969dc4a9e67ea7029",
+        "wallet_key": "r7aDKHZvPHadvP0NLxrrnZTSSIp8Jt90CtihPg1hQv8="
+    },
+    "ml_fraud_detection": {
+        "identity_key": "347e706dcf41d4f8ce9db9dc081c19d09f4afbe605c610df1f54b411460f1f61",
+        "wallet_key": "HDr9UU3X0EqX/u6EdnCrj0p88x1yNWoHS6K82x7n/s0="
+    }
+}
